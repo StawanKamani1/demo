@@ -9,3 +9,4 @@
   from = "https://master--zippy-cheesecake-3b43e1.netlify.app/*"
   to = "https://factwise.io/blog/:splat"
   status = 301
+  force = true
