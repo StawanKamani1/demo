@@ -13,6 +13,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^4.30.3",
     "graphql": "^15.6.1",
     "graphql-request": "^3.5.0",
     "html-react-parser": "^1.4.0",

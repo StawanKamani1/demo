@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\components"
   ],
-  "SelectedNode": "\\C:\\Users\\stawa\\OneDrive\\Desktop\\factwise_blog",
+  "SelectedNode": "\\components\\Loader.jsx",
   "PreviewInSolutionExplorer": false
 }
